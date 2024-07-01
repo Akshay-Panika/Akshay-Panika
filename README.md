@@ -10,7 +10,6 @@ I'm **Akshay Panika**
 - 📫 How to reach me: 
   - Email: [akshey.panika@gmail.com](mailto:akshey.panika@gmail.com)
   - WhatsApp: +91 8989207770, +91 8989273770
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love making human robots and gadgets, and I enjoy nature sketch drawing and traveling.
 
 Check out my portfolio: [zero-pls.web.app](https://zero-pls.web.app/)
