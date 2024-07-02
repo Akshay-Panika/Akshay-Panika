@@ -10,13 +10,6 @@ I'm **Akshay Panika**
 - 📫 How to reach me: 
   - Email: [akshey.panika@gmail.com](mailto:akshey.panika@gmail.com)
   - Linkedin: [linkedin.com/in/akshay-panika](https://linkedin.com/in/akshay-panika)
-  - https://linkedin.com/in/akshay-panika
   - WhatsApp: +91 8989207770, +91 8989273770
     
 Check out my portfolio: [zero-pls.web.app](https://zero-pls.web.app/)
-
--📫 How to reach me:
--Email: akshey.panika@gmail.com
--LinkedIn: linkedin.com/in/akshay-panika
--WhatsApp: +91 8989207770, +91 8989273770
-Check out my portfolio: zero-pls.web.app
