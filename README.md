@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I'm Akshay Panika
+I'm **Akshay Panika**
 
 - 📫 How to search me: 
   - Email: [akshey.panika@gmail.com](mailto:akshey.panika@gmail.com)
