@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Flutter Developer**
+I'm a **Flutter Developer**
 
 - 📫 How to search me: 
   - Email: [akshey.panika@gmail.com](mailto:akshey.panika@gmail.com)
